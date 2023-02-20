@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "RE VR",
+    "titleTemplate": "%s",
+    "description": "Zdalna wycena nieruchomości.",
+    "siteUrl": "https://revr.pl",
+    "image": "/assets/aoperat-logo-transparent.png",
+    "iconimage": "/assets/aoperat-logo-transparent.png"
+  },
+  "ga": "UA-XXXXXXXXX-X"
+}
