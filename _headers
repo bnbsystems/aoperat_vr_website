@@ -17,17 +17,17 @@
   Cache-Control: public, max-age=31536000, immutable
 /4c5982dd2e5d78e25e6fef4f60e27425dc700396-7b2b794e13d264601218.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-contact-page-js-d39855a1a3ececf890c9.js
-  Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-index-page-js-3c5237e949c42c36b68c.js
-  Cache-Control: public, max-age=31536000, immutable
 /57393bdc75ddfd8440adaa62c6aef1c73e3fa8fb-65f4bc12f3f90315c018.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-about-page-js-3daa75accb635859a6d6.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-services-page-js-3d3b8493071b1edf68ee.js
+/component---src-templates-contact-page-js-d39855a1a3ececf890c9.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-index-page-js-3c5237e949c42c36b68c.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-privacy-policy-page-js-8f82be60563751f1c709.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-services-page-js-3d3b8493071b1edf68ee.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-terms-and-conditions-page-js-fc9986e27156e67c3b53.js
   Cache-Control: public, max-age=31536000, immutable
@@ -56,6 +56,18 @@
   Link: </component---cache-caches-gatsby-plugin-offline-app-shell-js-ebc6a06b2e114617d14f.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
+/about
+  Link: </webpack-runtime-20dfd8760eca96b3adc1.js>; rel=preload; as=script
+  Link: </framework-245473fdbdce8902a38c.js>; rel=preload; as=script
+  Link: </app-4f610360fcc4a62793a9.js>; rel=preload; as=script
+  Link: </78e521c3-cdd2ce931c13eddd09b7.js>; rel=preload; as=script
+  Link: </1bfc9850-896a4fa187ef532f5463.js>; rel=preload; as=script
+  Link: </1f4258a02b21312473444027232c871d06bf7d23-35625193a75d3a55de8f.js>; rel=preload; as=script
+  Link: </4c5982dd2e5d78e25e6fef4f60e27425dc700396-7b2b794e13d264601218.js>; rel=preload; as=script
+  Link: </57393bdc75ddfd8440adaa62c6aef1c73e3fa8fb-65f4bc12f3f90315c018.js>; rel=preload; as=script
+  Link: </component---src-templates-about-page-js-3daa75accb635859a6d6.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
 /contact
   Link: </webpack-runtime-20dfd8760eca96b3adc1.js>; rel=preload; as=script
   Link: </framework-245473fdbdce8902a38c.js>; rel=preload; as=script
@@ -78,18 +90,16 @@
   Link: </component---src-templates-index-page-js-3c5237e949c42c36b68c.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
-/about
+/privacy-policy
   Link: </webpack-runtime-20dfd8760eca96b3adc1.js>; rel=preload; as=script
   Link: </framework-245473fdbdce8902a38c.js>; rel=preload; as=script
   Link: </app-4f610360fcc4a62793a9.js>; rel=preload; as=script
   Link: </78e521c3-cdd2ce931c13eddd09b7.js>; rel=preload; as=script
   Link: </1bfc9850-896a4fa187ef532f5463.js>; rel=preload; as=script
   Link: </1f4258a02b21312473444027232c871d06bf7d23-35625193a75d3a55de8f.js>; rel=preload; as=script
-  Link: </4c5982dd2e5d78e25e6fef4f60e27425dc700396-7b2b794e13d264601218.js>; rel=preload; as=script
-  Link: </57393bdc75ddfd8440adaa62c6aef1c73e3fa8fb-65f4bc12f3f90315c018.js>; rel=preload; as=script
-  Link: </component---src-templates-about-page-js-3daa75accb635859a6d6.js>; rel=preload; as=script
+  Link: </component---src-templates-privacy-policy-page-js-8f82be60563751f1c709.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/privacy-policy/page-data.json>; rel=preload; as=fetch; crossorigin
 /services
   Link: </webpack-runtime-20dfd8760eca96b3adc1.js>; rel=preload; as=script
   Link: </framework-245473fdbdce8902a38c.js>; rel=preload; as=script
@@ -102,16 +112,6 @@
   Link: </component---src-templates-services-page-js-3d3b8493071b1edf68ee.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/services/page-data.json>; rel=preload; as=fetch; crossorigin
-/privacy-policy
-  Link: </webpack-runtime-20dfd8760eca96b3adc1.js>; rel=preload; as=script
-  Link: </framework-245473fdbdce8902a38c.js>; rel=preload; as=script
-  Link: </app-4f610360fcc4a62793a9.js>; rel=preload; as=script
-  Link: </78e521c3-cdd2ce931c13eddd09b7.js>; rel=preload; as=script
-  Link: </1bfc9850-896a4fa187ef532f5463.js>; rel=preload; as=script
-  Link: </1f4258a02b21312473444027232c871d06bf7d23-35625193a75d3a55de8f.js>; rel=preload; as=script
-  Link: </component---src-templates-privacy-policy-page-js-8f82be60563751f1c709.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/privacy-policy/page-data.json>; rel=preload; as=fetch; crossorigin
 /terms-and-conditions
   Link: </webpack-runtime-20dfd8760eca96b3adc1.js>; rel=preload; as=script
   Link: </framework-245473fdbdce8902a38c.js>; rel=preload; as=script
@@ -155,17 +155,6 @@
   Link: </component---src-templates-blog-post-js-0d6848731b98bfcfeda2.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/analiza-socjodemograficzna/page-data.json>; rel=preload; as=fetch; crossorigin
-/blog/rest-api/
-  Link: </webpack-runtime-20dfd8760eca96b3adc1.js>; rel=preload; as=script
-  Link: </framework-245473fdbdce8902a38c.js>; rel=preload; as=script
-  Link: </app-4f610360fcc4a62793a9.js>; rel=preload; as=script
-  Link: </78e521c3-cdd2ce931c13eddd09b7.js>; rel=preload; as=script
-  Link: </1bfc9850-896a4fa187ef532f5463.js>; rel=preload; as=script
-  Link: </1f4258a02b21312473444027232c871d06bf7d23-35625193a75d3a55de8f.js>; rel=preload; as=script
-  Link: </4c5982dd2e5d78e25e6fef4f60e27425dc700396-7b2b794e13d264601218.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-0d6848731b98bfcfeda2.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/blog/rest-api/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/doradztwo-inwestycyjne/
   Link: </webpack-runtime-20dfd8760eca96b3adc1.js>; rel=preload; as=script
   Link: </framework-245473fdbdce8902a38c.js>; rel=preload; as=script
@@ -177,6 +166,17 @@
   Link: </component---src-templates-blog-post-js-0d6848731b98bfcfeda2.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/doradztwo-inwestycyjne/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/rest-api/
+  Link: </webpack-runtime-20dfd8760eca96b3adc1.js>; rel=preload; as=script
+  Link: </framework-245473fdbdce8902a38c.js>; rel=preload; as=script
+  Link: </app-4f610360fcc4a62793a9.js>; rel=preload; as=script
+  Link: </78e521c3-cdd2ce931c13eddd09b7.js>; rel=preload; as=script
+  Link: </1bfc9850-896a4fa187ef532f5463.js>; rel=preload; as=script
+  Link: </1f4258a02b21312473444027232c871d06bf7d23-35625193a75d3a55de8f.js>; rel=preload; as=script
+  Link: </4c5982dd2e5d78e25e6fef4f60e27425dc700396-7b2b794e13d264601218.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-0d6848731b98bfcfeda2.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/rest-api/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/wycena-nieruchomości/
   Link: </webpack-runtime-20dfd8760eca96b3adc1.js>; rel=preload; as=script
   Link: </framework-245473fdbdce8902a38c.js>; rel=preload; as=script
